@@ -1,0 +1,13 @@
+type: code
+custom_name: What day is it?
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6526
+status: Solved
+feedback:
+  message: "Failed to connect to server, check the Internet connection \n\nFailed\
+    \ to connect to hyperskill.org/13.95.11.223:443"
+  time: Wed, 22 Jul 2020 15:12:56 UTC
+record: -1
